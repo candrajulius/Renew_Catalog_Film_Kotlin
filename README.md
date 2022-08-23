@@ -28,4 +28,4 @@ Anda bisa mencari dan melihat detail data tentang film yang anda suka. Memudahka
 - [Coroutines](https://developer.android.com/kotlin/coroutines?hl=id) -> **For a coroutines**
 
 ## Developer
-- [Candra Julius Sinaga]("https://code.cjsflow.com/") -> **Programmer**
+- [Candra Julius Sinaga](https://code.cjsflow.com/) -> **Programmer**
