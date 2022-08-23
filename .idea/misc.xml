@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android_Intermediate/LatihanTestingAdd/caches/transforms-3/0ded468fac29fca063b6ff79c60f8467/transformed/appcompat-1.4.2/res/layout/support_simple_spinner_dropdown_item.xml" value="0.20729166666666668" />
+        <entry key="..\:/Project/Katalog_Film/app/src/main/res/drawable/background_bottom_navigation.xml" value="0.1385" />
+        <entry key="..\:/Project/Katalog_Film/app/src/main/res/drawable/bg_overlay.xml" value="0.1385" />
+        <entry key="..\:/Project/Katalog_Film/app/src/main/res/drawable/bg_rounded.xml" value="0.1385" />
+        <entry key="..\:/Project/Katalog_Film/app/src/main/res/layout/activity_favorite.xml" value="0.15" />
+        <entry key="..\:/Project/Katalog_Film/app/src/main/res/layout/activity_main.xml" value="0.19322916666666667" />
+        <entry key="..\:/Project/Katalog_Film/app/src/main/res/layout/custom_setting_list.xml" value="0.33" />
+        <entry key="..\:/Project/Katalog_Film/app/src/main/res/layout/detail_layout.xml" value="0.1331103678929766" />
+        <entry key="..\:/Project/Katalog_Film/app/src/main/res/layout/detail_layout_people.xml" value="0.22" />
+        <entry key="..\:/Project/Katalog_Film/app/src/main/res/layout/dialog_layout.xml" value="0.22" />
+        <entry key="..\:/Project/Katalog_Film/app/src/main/res/layout/empty_view.xml" value="0.17481884057971014" />
+        <entry key="..\:/Project/Katalog_Film/app/src/main/res/layout/genre_layout.xml" value="0.20625" />
+        <entry key="..\:/Project/Katalog_Film/app/src/main/res/layout/item_people_layout.xml" value="0.22" />
+        <entry key="..\:/Project/Katalog_Film/app/src/main/res/layout/item_trailer_layout.xml" value="0.22" />
+        <entry key="..\:/Project/Katalog_Film/app/src/main/res/layout/list_item_horizontal.xml" value="0.16847826086956522" />
+        <entry key="..\:/Project/Katalog_Film/app/src/main/res/layout/list_item_recomended.xml" value="0.16847826086956522" />
+        <entry key="..\:/Project/Katalog_Film/app/src/main/res/layout/movie_layout.xml" value="0.25" />
+        <entry key="..\:/Project/Katalog_Film/app/src/main/res/layout/search_layout.xml" value="0.20625" />
+        <entry key="..\:/Project/Katalog_Film/app/src/main/res/layout/setting_layout.xml" value="0.33" />
+        <entry key="..\:/Project/Katalog_Film/app/src/main/res/layout/splash_screen_activity.xml" value="0.16" />
+        <entry key="..\:/Project/Katalog_Film/app/src/main/res/layout/tempt_data.xml" value="0.1" />
+        <entry key="..\:/Project/Katalog_Film/app/src/main/res/layout/tempt_layout.xml" value="0.15534420289855072" />
+        <entry key="..\:/Project/Katalog_Film/app/src/main/res/layout/tv_show_search_layout.xml" value="0.18" />
+        <entry key="..\:/Project/Katalog_Film/app/src/main/res/layout/view_all_layout.xml" value="0.20625" />
+        <entry key="..\:/Project/Katalog_Film/app/src/main/res/layout/view_error.xml" value="0.33" />
+        <entry key="..\:/Project/Katalog_Film/app/src/main/res/layout/view_search_not_found.xml" value="0.17481884057971014" />
+        <entry key="..\:/Project/Katalog_Film/app/src/main/res/layout/webview_layout.xml" value="0.15534420289855072" />
+        <entry key="..\:/Project/Katalog_Film/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.49874686716791977" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

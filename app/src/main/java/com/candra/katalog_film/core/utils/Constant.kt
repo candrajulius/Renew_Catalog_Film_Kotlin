@@ -1,0 +1,27 @@
+package com.candra.katalog_film.core.utils
+
+object Constant {
+    const val BASE_URL = "https://api.themoviedb.org/3/"
+    const val IMAGE_PATH = "https://image.tmdb.org/t/p/w780"
+    const val IMAGE_PATH2 = "https://image.tmdb.org/t/p/w500"
+    const val API_KEY = "863275593dd14b7b2035255c29ca5bd4"
+    const val EXTRA_TV = "extra_movie"
+    const val WEEK = "week"
+    const val DAY = "day"
+    const val MEDIA_TYPE_MOVIE = "movie"
+    const val POSITION = "position"
+    const val EXTRA_MOVIE = "extra_movie"
+    const val MEDIA_TYPE_TV = "tv"
+    const val IMAGE_LOGO = "https://raw.githubusercontent.com/candrajulius/SpaceCoffeeStartUp/main/foto_logo_film.jpeg"
+    const val EXTRA_CASTING = "extra_casting"
+    const val EXTRA_CREW = "extra_crew"
+    const val URL_YOUTUBE = "https://www.youtube.com/watch?v="
+    const val EXTRA_VIEW_ALL = "view_all"
+    const val URL_PRIVACY_POLICY = "https://pages.flycricket.io/catalog-film-0/privacy.html"
+    const val URL_TERMS_CONDITION = "https://pages.flycricket.io/catalog-film-1/terms.html"
+    const val PRIVACY_POLICY = "Privacy Policy"
+    const val TERMS_CONDITION = "Terms & Conditions"
+    const val OVERVIEW_CATALOG_FILM = "Film Catalog is a database that contains movies and tv shows like other movie databases. The purpose of making this application is because it is gabut"
+    const val CLOSE_BTN = "CLOSE"
+    const val VERSION_APP = "1.0.0"
+}

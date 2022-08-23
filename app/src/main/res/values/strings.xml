@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Catalog Film</string>
+    <string name="movie">Movie</string>
+    <string name="tv_show">TV Show</string>
+    <string name="search">Search</string>
+    <string name="favorite">Favorite</string>
+    <string name="playing_now">Playing Now</string>
+    <string name="trending_week">Trending Week</string>
+    <string name="trending_days">Trending Day</string>
+    <string name="recomended_movie">Recommended Movie</string>
+    <string name="recomended_tv_show">Recommended Tv Show</string>
+    <string name="search_your_tv_show_or_movie_in_here">search your tv show or movie in here</string>
+    <string name="name_developer">Candra Julius Sinaga</string>
+    <string name="nothing_content_to_show">Nothing Content To Show</string>
+    <string name="rating">Rating :</string>
+    <string name="empty_data">Data is null</string>
+    <string name="query_is_not_found">Query is not found</string>
+    <string name="kepopuleran">Popularity :</string>
+    <string name="detail_movie">Detail movie %1s</string>
+    <string name="detail_tv_show">Detail tv show %1s</string>
+    <string name="storyline">StoryLine :</string>
+    <string name="insertToMovie">Movie %1s has been added successfully</string>
+    <string name="insertToTvShow">Tv Show %1s has been added successfully</string>
+    <string name="deleteMovie">Movie %1s has been deleted successfully</string>
+    <string name="deleteTvShow">Tv Show %1s has been deleted successfully</string>
+    <string name="tanggal_rilis">Release Date</string>
+    <string name="share">Share</string>
+    <string name="title_favorite">Module Title</string>
+    <string name="not_internet_connection">No internet connection</string>
+    <string name="error">Oops, something wrong from application</string>
+    <string name="gambar_content">Image Content</string>
+    <string name="refresh_content">Refresh</string>
+    <string name="nothing_data_to_show">Nothing data to show</string>
+    <string name="genre">Genre</string>
+    <string name="crew">Crew</string>
+    <string name="casting">Casting</string>
+    <string name="trailer">Trailer</string>
+    <string name="about">About %1s</string>
+    <string name="data_is_null">Data is null</string>
+    <string name="recomendation">Recomendation For You</string>
+    <string name="detail_people">Detail %1s</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="view_all">View All</string>
+    <string name="view_all_detail">View All %1s %2s</string>
+    <string name="page">Page</string>
+    <string name="search_not_found">Oops, your keyword not found. Please try again</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="try_again">Try Again</string>
+    <string name="setting">Setting</string>
+
+
+</resources>
