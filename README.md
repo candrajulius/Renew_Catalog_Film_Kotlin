@@ -10,7 +10,7 @@ Anda bisa mencari dan melihat detail data tentang film yang anda suka. Memudahka
 - Top Rated Movie And Tv Show
 - Recommended Movie And Tv Show
 - Search Movie And Tv Show
-- Favorite
+- Favorite Movie And Tv Show
 - Movie And Tv Show Popular
 
 ## Scrennshot App
